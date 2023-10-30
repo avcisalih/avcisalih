@@ -1,5 +1,5 @@
 
-  ![MasterHead](https://www.iakademi.com/wp-content/uploads/2022/12/react-native-nedir-2019-06-19-215527-0.png)
+
 <h1 align="center">Hi 👋, I'm Salih</h1>
 <h3 align="center">A passionate frontend developer from Türkiye</h3>
 

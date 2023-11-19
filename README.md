@@ -24,7 +24,7 @@ Sürekli öğrenmeyi ve kendimi geliştirmeyi seven biriyim.
 
 Kendimi sürekli geliştirmeyi hedefliyorum ve yeni teknolojilere daima açığım.
 
-Profilimi ziyaret etmek ve projelerime göz atmak için lütfen GitHub hesabımı kontrol edin. İyi günler!
+
 
 💬 İletişim:
 
@@ -67,6 +67,9 @@ Eğer işbirliği veya herhangi bir soru sormak isterseniz, benimle [avcisalihof
 🔝 Top Contributed Repo
 
 </br>
+
+
+🔭🔭🔭 Profilimi ziyaret etmek ve projelerime göz atmak için lütfen GitHub hesabımı kontrol edin. İyi günler! 🔭🔭🔭
 
 
 ![](https://github-contributor-stats.vercel.app/api?username=avcisalih&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)

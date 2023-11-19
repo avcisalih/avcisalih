@@ -55,6 +55,7 @@ Eğer işbirliği veya herhangi bir soru sormak isterseniz, benimle [avcisalihof
 
 📊 GitHub Stats:
 
+</br>
 
 ![](https://github-readme-stats.vercel.app/api?username=avcisalih&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=avcisalih&theme=dark&hide_border=false)<br/>
@@ -64,6 +65,8 @@ Eğer işbirliği veya herhangi bir soru sormak isterseniz, benimle [avcisalihof
 
 
 🔝 Top Contributed Repo
+
+</br>
 
 
 ![](https://github-contributor-stats.vercel.app/api?username=avcisalih&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)

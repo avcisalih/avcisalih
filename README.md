@@ -96,6 +96,46 @@
 
 ###
 
+
+
+
+
+
+
+🌐 Socials:
+
+
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/avcisalih1) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/avcisalih) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/avcisalih1) 
+
+
+
+
+###
+
+
+
+🔝 Top Contributed Repo
+
+</br>
+
+
+🔭🔭🔭 Profilimi ziyaret etmek ve projelerime göz atmak için lütfen GitHub hesabımı kontrol edin. İyi günler! 🔭🔭🔭
+
+
+![](https://github-contributor-stats.vercel.app/api?username=avcisalih&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
+
+
+
+[![](https://visitcount.itsvg.in/api?id=avcisalih&icon=2&color=1)](https://visitcount.itsvg.in)
+
+
+
+
+
+
+###
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=avcisalih&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=avcisalih&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />

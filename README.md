@@ -10,7 +10,7 @@
 
 ###
 
-<p align="center">⚡ Web geliştirmeye ilgi duyan bir Frontend Geliştiriciyim. HTML, CSS, JavaScript ve React gibi teknolojilere hakimim. Sürekli öğrenmeyi ve kendimi geliştirmeyi seven biriyim.<br><br>🛠️ Kullandığım Teknolojiler:<br><br>React<br>React Native<br>HTML5 ve CSS3<br>Boostrap<br>JavaScript<br>Git ve GitHub<br>🌱 Sürekli Öğrenme:<br><br><br>💬 İletişim:<br><br>Eğer işbirliği veya herhangi bir soru sormak isterseniz, benimle avcisalihoffical@gmail.com adresinden iletişime geçebilirsiniz.</p>
+<p align="center">⚡ Web geliştirmeye ve Mobil Geliştirmeye ilgi duyan bir Frontend/Mobil Geliştiriciyim. HTML, CSS, JavaScript, React ve React Native gibi teknolojilere hakimim. Sürekli öğrenmeyi ve kendimi geliştirmeyi seven biriyim.<br><br>🛠️ Kullandığım Teknolojiler:<br><br>React<br>React Native<br>HTML5 ve CSS3<br>Boostrap<br>JavaScript<br>Git ve GitHub<br>🌱 Sürekli Öğrenme:<br><br><br>💬 İletişim:<br><br>Eğer işbirliği veya herhangi bir soru sormak isterseniz, benimle avcisalihoffical@gmail.com adresinden iletişime geçebilirsiniz.</p>
 
 ###
 

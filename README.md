@@ -24,7 +24,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" height="40" alt="typescript logo"  />
@@ -100,7 +100,7 @@
 
 
 
-
+<div align="center">
 
 🌐 Socials:
 
@@ -108,13 +108,13 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/avcisalih1) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/avcisalih) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/avcisalih1) 
 
-
+</div>
 
 
 ###
 
 
-
+<div align="center">
 🔝 Top Contributed Repo
 
 </br>
@@ -126,8 +126,9 @@
 ![](https://github-contributor-stats.vercel.app/api?username=avcisalih&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
 
 
+</div>
 
-[![](https://visitcount.itsvg.in/api?id=avcisalih&icon=2&color=1)](https://visitcount.itsvg.in)
+
 
 
 
